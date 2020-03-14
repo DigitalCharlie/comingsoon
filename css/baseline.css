@@ -35,7 +35,7 @@
         font-family:CeraBlackPro;
         color:#f2d089;
         margin:20px 0 0;
-        font-size:3.5em;
+        font-size:2em;
     }
 
     h2 {
@@ -62,7 +62,7 @@
 /* Body styles */
 
     .logoContainer {
-        padding-top:20vh;
+        padding-top:15vh;
         max-width:85%;
         margin:0 auto;
         display:block;
@@ -78,13 +78,13 @@
 /* Share Buttons */
 
     .shareButtons {
-        width:84px;
+        width:54px;
         margin:0 auto;
         display:block;
     }
 
     .facetweet {
-        width:40px;
+        width:25px;
         margin:0;
     }
 
@@ -92,26 +92,24 @@
 
     /* Type */
 
-        body {
-            background-size:100%;
-        }
-
         h1 {
-            font-size:3em;
-        }
-
-        h2 {
-            font-size:1.5em;
-        }
-
-        h3 {
-
-        }
-
-        p {
-
+            font-size:3.5em;
         }
 
     /* Body Styles */
 
+        .logoContainer {
+            padding-top:18vh;
+        }
+
     /* button styles */
+
+        .shareButtons {
+            width:84px;
+            margin:0 auto;
+            display:block;
+        }
+
+        .facetweet {
+            width:40px;
+        }
