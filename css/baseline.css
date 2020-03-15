@@ -16,11 +16,6 @@
         margin:0;
     }
 
-    @font-face {
-      font-family: CeraBlackPro;
-      src: url(Cera Pro Black.otf);
-    }
-
 /* TYPOGRAPHY */
     body {
 
@@ -32,7 +27,7 @@
 
     h1 {
         text-align:center;
-        font-family:CeraBlackPro;
+        font-family:museo-sans;
         color:#f2d089;
         margin:20px 0 0;
         font-size:2em;
@@ -62,7 +57,7 @@
 /* Body styles */
 
     .logoContainer {
-        padding-top:15vh;
+        padding-top:20vh;
         max-width:85%;
         margin:0 auto;
         display:block;
@@ -78,12 +73,12 @@
 /* Share Buttons */
 
     .shareButtons {
-        width:54px;
+        width:83px;
         margin:0 auto;
         display:block;
     }
 
-    .facetweet {
+    .facetweetgram {
         width:25px;
         margin:0;
     }
@@ -105,11 +100,11 @@
     /* button styles */
 
         .shareButtons {
-            width:84px;
+            width:128px;
             margin:0 auto;
             display:block;
         }
 
-        .facetweet {
+        .facetweetgram {
             width:40px;
         }
